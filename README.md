@@ -7,3 +7,5 @@
 #http://www.avrfreaks.net/forum/tut-modularizing-c-code-managing-large-projects?name=PNphpBB2&file=viewtopic&t=48535
 
 #https://exploreembedded.com/wiki/AVR_C_Library
+
+#https://embeddedgurus.com
